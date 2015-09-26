@@ -1,4 +1,6 @@
 # monitor_to_notification
+This sh*t works on OSX only sorry bro.
+
 Allow you to monitor an IP or Hostname of your choice and to have a notification when ping drop.
 
 It install packages by himself and can ask for root privileges.
